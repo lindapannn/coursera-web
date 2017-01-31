@@ -1,4 +1,4 @@
-# This page is for [HTML, CSS, JavaScript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome) course on coursera.
+This page is for **[HTML, CSS, JavaScript for Web Developers]**(https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome) course on coursera.
 
 ### Here is my [course page](https://lindapann.github.io/coursera-web/)
 

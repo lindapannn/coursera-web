@@ -1,6 +1,11 @@
 * {
   box-sizing: border-box;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
+
+h1 {
+	color: #000000;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
 }
 
 body {
@@ -12,16 +17,26 @@ body {
 
 /** HEADER **/
 #header-nav {
-  background-color: grey;
-  border-radius: 0;
+  background-color: #ffc545;
+  border-radius: 10;
   border: 0;
+  /*position: fixed;*/
 }
 
 #logo-img {
   background: url('../images/restaurant-logo_large.png') no-repeat;
+  background-color: #fff;
   width: 150px;
   height: 150px;
   margin: 10px 15px 10px 0;
+}
+.navbar-default .navbar-toggle {
+    border-color: #000000;
+    background-color: #dc9e55;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #312923;
 }
 
 .navbar-brand {
@@ -50,4 +65,48 @@ body {
 }
 .navbar-brand p span { /* Star-K */
   vertical-align: middle;
+}
+
+.row {
+  margin: 10px;
+}
+
+section {
+  background-color: #999999;
+	width: 100%;
+	height: auto;
+  border: 1px solid #000000;
+  margin: 10px;
+	position: relative;
+  padding: 0;
+}
+
+section h3 {
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+  margin: 0 30% 0 30%;
+	font-size: 1.25em;
+	text-align: center;
+	width: 40%;
+}
+
+#chicken h3{
+	background-color: #41A1E1;
+  margin-bottom: 10px;
+}
+
+#beef h3{
+	background-color: #F8A858;
+  margin-bottom: 10px;
+}
+
+#sushi h3{
+	background-color: #7F63B7;
+  margin-bottom: 10px;
+
+}
+
+hr {
+  border-color: white;
 }

@@ -1,6 +1,4 @@
-This page is for [**HTML, CSS, JavaScript for Web Developers**](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome) on coursera.
-
-### Here is the [index page](https://lindapann.github.io/coursera-web/)
+# Here is the [index page](https://lindapann.github.io/coursera-web/)
 
 <br/>
 ## First Week (no project assignment)
@@ -22,3 +20,4 @@ This page is for [**HTML, CSS, JavaScript for Web Developers**](https://www.cour
   [See Demo](https://lindapann.github.io/coursera-web/mod3_solution/)
 
 
+This page is for [**HTML, CSS, JavaScript for Web Developers**](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome) on coursera.

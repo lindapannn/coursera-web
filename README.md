@@ -1,21 +1,51 @@
 Here is the [index page](https://lindapann.github.io/coursera-web/)
 
-<br/>
 
 <ul>
-  <li> Frist Week </li>
-  <li> Second Week </li>
+  <li><a href="#first"> Frist Week </a></li>
+  <li><a href="#second"> Second Week </a></li>
   <li> Third Week </li>
 </ul>
 
 
+<div id="first"> ## First Week (no project assignment) </div>
 
-## First Week (no project assignment)
+<br/>
+<br/>
+<br/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+<br/>
+<br/>
+<br/>
 
 <br/>
 
+<br/>
 
-## +Second Week
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<br/>
+<br/>
+<br/>
+
+<br/>
+<br/>
+
+
+<div id="second"> ## Second Week </div>
+
 
   Practice of CSS and HTML, considering different screen size.
   [See Demo](https://lindapann.github.io/coursera-web/mod2_solution/)

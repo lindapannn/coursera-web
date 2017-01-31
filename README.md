@@ -1,7 +1,16 @@
 Here is the [index page](https://lindapann.github.io/coursera-web/)
 
 <br/>
-+## First Week (no project assignment)
+
+<ul>
+  <li> Frist Week </li>
+  <li> Second Week </li>
+  <li> Third Week </li>
+</ul>
+
+
+
+## First Week (no project assignment)
 
 <br/>
 

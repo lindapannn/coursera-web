@@ -4,7 +4,7 @@ Here is the [index page](https://lindapann.github.io/coursera-web/)
 <ul>
   <li><a href="#first"> Frist Week </a></li>
   <li><a href="#second"> Second Week </a></li>
-  <li><a href="third"> Third Week </a></li>
+  <li><a href="#third"> Third Week </a></li>
 </ul>
 
 
